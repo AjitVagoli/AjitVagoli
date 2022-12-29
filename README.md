@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AjitVagoli
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ajitvagoli34@gmail.com
 
 <!---
